@@ -2,7 +2,7 @@
  
  Through Hatchways, our team worked on a [MERN stack-based tattoo contest website](https://github.com/hatchways/team-old-fashioned/tree/main)
  
- :books: Tech Stack: React, NextJS, JavaScript, TypeScript, Redux, HTML/CSS, AWS S3, MongoDB, MySQL, Express.js, Node.js, Material UI, C, C++
+ :books: Tech Stack: React, Next.JS, Gatsby.JS, JavaScript, TypeScript, Redux, HTML/CSS, AWS S3, MongoDB, MySQL, Express.js, Node.js, Material UI, C, C++
  
  :hammer_and_wrench: Linux, Git, Visual Studio Code
  
